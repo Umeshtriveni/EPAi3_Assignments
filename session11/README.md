@@ -1,4 +1,4 @@
-<h1 align="center">Iterator and iterable </h1>
+<h1 align="center">Iterators and iterable </h1>
 
 <h2 align="center"> Assignment Question </h2>
 
