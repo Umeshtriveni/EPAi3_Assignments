@@ -24,5 +24,5 @@ You'll need to implement both an iterable, and an iterator.
 
 ## Test Cases
 
-Test cases have been developed in the notebook to check the `Objective 1` and `Objective 2`. There are two sections in the notebook, first section tests `objective 1` over `properties`, `__repr__`,`__eq__` & `__gt__` function. The second section contains the test cases for `objective 2` over `properties`,`__repr__`, `__len__` & `__getitem__`.
+Test cases have been developed in the notebook to check the `Goal 1` and `Goal 2`. There are two sections in the notebook, first section tests `objective 1` over `properties`, `__repr__`,`__eq__` & `__gt__` function. The second section contains the test cases for `objective 2` over `properties`,`__repr__`, `__len__` & `__getitem__`.
 
