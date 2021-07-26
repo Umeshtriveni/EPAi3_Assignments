@@ -89,7 +89,6 @@ class Polygons:
         def __iter__(self):
             return self
 
-
         def __next__(self):
             if self._index >= len(self._poly_obj):
                 raise StopIteration
